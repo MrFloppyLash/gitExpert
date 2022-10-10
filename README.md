@@ -1,2 +1,2 @@
-# react-gitExpert
+# react-gifExpert
 Pruebas de aprendizaje con react
